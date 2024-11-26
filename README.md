@@ -31,9 +31,7 @@ A Python-based file organizer that helps declutter and organize files in a speci
 1. Clone this repository:
    ```bash
     https://github.com/Tarun18097/FileOrganizer.github.io.git
-    ```bash
     cd organizeFileApp
-    ```bash
     python3 gui.py
 
     
